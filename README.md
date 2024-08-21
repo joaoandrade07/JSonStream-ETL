@@ -5,4 +5,4 @@
 # Participantes
  - João Andrade - `https://github.com/joaoandrade07`
  - Kauã Rodrigo - `https://github.com/KrodrigoDev`
- - Raian Martins - `https://github.com/rayhakku`
+ - Rayan Martins - `https://github.com/rayhakku`
